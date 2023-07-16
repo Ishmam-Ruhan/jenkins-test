@@ -4,7 +4,7 @@
 echo -e "\n\033[34m                _____ _____  _____  _____ _   _  _____ \n               / ____|  __ \|  __ \|_   _| \ | |/ ____|\n              | (___ | |__) | |__) | | | |  \| | |  __ \n               \___ \|  ___/|  _  /  | | | . \` | | |_ |\n               ____) | |    | | \ \ _| |_| |\  | |__| |\n              |_____/|_|    |_|  \_\_____|_| \_|\_____|\n                                                        \033[m"
 
 #-----------------------Settings---------------------------------
-PROJECT_DIRECTORY="/home/ubuntu/jenkins-test/"
+PROJECT_DIRECTORY="/home/ashiq/jenkins-test/"
 GITHUB_TOKEN="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"
 
 GITHUB_ORGANIZATION="Ishmam-Ruhan"
