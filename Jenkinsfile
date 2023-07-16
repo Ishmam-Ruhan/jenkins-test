@@ -3,6 +3,8 @@ def discordWebhookUrl = 'https://discordapp.com/api/webhooks/1110871631649308732
 def ubuntuUser = 'sudo -u ashiq'
 
 pipeline {
+  agent any
+
   stages {
     stage('Checkout') {
       steps {
